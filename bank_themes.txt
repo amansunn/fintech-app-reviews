@@ -1,0 +1,36 @@
+CBE top themes:
+  good: 60
+  best: 29
+  banking: 22
+  nice: 20
+  mobile: 17
+  great: 16
+  application: 16
+  screenshot: 15
+  easy: 15
+  make: 13
+
+BOA top themes:
+  work: 41
+  please: 34
+  good: 32
+  banking: 31
+  mobile: 29
+  working: 25
+  developer: 25
+  worst: 23
+  doesn: 22
+  time: 19
+
+Dashen Bank top themes:
+  dashen: 102
+  super: 74
+  banking: 72
+  best: 48
+  fast: 44
+  easy: 41
+  good: 40
+  user: 38
+  features: 36
+  amazing: 30
+
